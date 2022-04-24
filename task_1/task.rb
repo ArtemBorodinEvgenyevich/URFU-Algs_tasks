@@ -45,8 +45,3 @@ File.open('out.txt', 'w+') do |f|
   }
   f.puts('0')
 end
-
-
-
-
-
